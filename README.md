@@ -54,7 +54,3 @@ Simple movie information site created using VueJS
 
 Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
 
-#### Lecture branches
-
-Note that branches in the repo named `lecture/xxx` correspond to course lectures.
-
